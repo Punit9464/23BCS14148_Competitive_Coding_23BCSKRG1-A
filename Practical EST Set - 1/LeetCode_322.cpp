@@ -1,5 +1,6 @@
 #include <bits/stc++.h>
 #define endl '\n'
+using namespace std;
 
 int tabulate(vector<int> &arr, int target) {
     int n = arr.size();
